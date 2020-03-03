@@ -1,0 +1,24 @@
+---
+title: "sampling"
+author: "Jun-Yong Kim"
+date: "3/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(readr)
+library(readxl)
+library(janitor)
+library(dplyr)
+library(googlesheets4)
+
+```
+
+```{r}
+
+```
+
+
